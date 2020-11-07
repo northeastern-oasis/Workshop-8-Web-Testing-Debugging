@@ -1,4 +1,4 @@
-# Workshop 6: Web Testing and Debugging
+# Workshop 8: Web Testing and Debugging
 
 **Workshop External Resources**
 
