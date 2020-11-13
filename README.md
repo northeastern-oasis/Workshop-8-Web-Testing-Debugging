@@ -2,9 +2,9 @@
 
 **Workshop External Resources**
 
-  *  Youtube Recording: Coming soon
+  *  Youtube Recording: https://youtu.be/cuZRoHjypnY
   *  Slides: [https://docs.google.com/presentation/d/1ZM5wkpM7QFGZCIIYHYxNa1jaf1R2G7E5eZmQsPsXvPg/edit?usp=sharing](https://docs.google.com/presentation/d/1ZM5wkpM7QFGZCIIYHYxNa1jaf1R2G7E5eZmQsPsXvPg/edit?usp=sharing)
-  * Kahoot: []()
+  * Kahoot: [https://create.kahoot.it/share/oasis-workshop-8-testing-on-the-web/ee09a0f2-b316-48ea-9985-19c0e604083e](https://create.kahoot.it/share/oasis-workshop-8-testing-on-the-web/ee09a0f2-b316-48ea-9985-19c0e604083e)
   * Oasis Starting Guide: [https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/web-testing](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/web-testing)
 
 Congratulations on starting to learn about testing on the web! If you've done testing on the desktop with tools like Racket check-expect or JUnit, this should come naturally to you. And if not, be sure to check out the slides and move step by step and you'll be fine! Testing is a skill that will serve you well in your personal projects.
